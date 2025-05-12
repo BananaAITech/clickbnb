@@ -1539,10 +1539,10 @@ function App() {
 
       {/* Social Links */} 
       <div className="social-links">
-        <a href="https://github.com/jobjab-dev/Clickonchain.xyz" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+        <a href="#" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
           <FaGithub />
         </a> 
-        <a href="https://x.com/jobjab_eth" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter)">
+        <a href="https://x.com/clickbnb_cto" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter)">
           <FaXTwitter />
         </a>
       </div>
